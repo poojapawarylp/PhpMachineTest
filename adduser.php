@@ -1,5 +1,5 @@
 <?php
-	require('databaseconnection.php');
+    require('databaseconnection.php');
     $message="";
     $firstnameerror=$lastnameerror= $emailerror=$doberror=$mnumerror=$designationerror=$gendererror="";
     $form_flag = TRUE;
